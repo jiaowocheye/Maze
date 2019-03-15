@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>maze2.png</file>
+        <file>darkgreen.png</file>
+        <file>yellow.png</file>
+        <file>blue.png</file>
+        <file>green.png</file>
+        <file>protagonist.png</file>
+        <file>peppaO.png</file>
+        <file>maze1.png</file>
+        <file>grass.png</file>
+        <file>river.png</file>
+        <file>wall.png</file>
+        <file>enemy.png</file>
+        <file>healthpack.png</file>
+        <file>penemy.png</file>
+        <file>poison.png</file>
+        <file>maze3.png</file>
+    </qresource>
+</RCC>
